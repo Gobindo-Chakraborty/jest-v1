@@ -1,0 +1,21 @@
+{
+  "name": "jest-v1",
+  "version": "1.0.0",
+  "description": "Learning Jest Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gobindo-Chakraborty/jest-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gobindo-Chakraborty/jest-v1/issues"
+  },
+  "homepage": "https://github.com/Gobindo-Chakraborty/jest-v1#readme"
+}
